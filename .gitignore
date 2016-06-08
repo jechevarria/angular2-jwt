@@ -1,12 +1,13 @@
 node_modules
 npm-debug.log
-typings
+# typings : este branch es la version distribuible
 
 Thumbs.db
 .DS_Store
 
-*.js
-*.map
-*.d.ts
+# *.js : dist
+# *.map
+# *.d.ts
 .idea/
 *.iml
+
